@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @AvishayMamrud
 - 🌱 I’m currently learning Software-Engineering at Ben-Gurion University (Israel)
-- 📫 you can reach me via Email at avishaymamrud@gmail.com
+- 📫 you can reach me via Email at avishay.mamrud@gmail.com
