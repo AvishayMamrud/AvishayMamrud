@@ -1,4 +1,4 @@
 - 👋 Hi, I’m AvishayMamrud
-- 🌱 I’m currently learning Software-Engineering at Ben-Gurion University (Israel)
+- 🌱 I’ve recently finished studies for a Software-Engineering degree at Ben-Gurion University (Israel)
 - 📫 You can reach me via Email at avishay.mamrud@gmail.com
-- My LinkedIn profile is here -> https://www.linkedin.com/in/avishay-mamrud-000a76213/
+- My LinkedIn profile is [here](https://www.linkedin.com/in/avishay-mamrud/)
